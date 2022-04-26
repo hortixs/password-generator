@@ -12,7 +12,6 @@ _b = 0
 
 
 
-# Pervent ValueError:
 print("\n\n[+] Veuillez entrer seulement un nombre")
 while True:
   try:
